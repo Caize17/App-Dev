@@ -1,3 +1,2 @@
 This is my first Git activity.
 Hello World!
-hi
